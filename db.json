@@ -2585,6 +2585,28 @@
       "createdAt": "2025-08-11T10:43:27.049Z",
       "updatedAt": "2025-08-11T10:43:27.049Z",
       "isActive": true
+    },
+    {
+      "id": "f314",
+      "name": "오유석",
+      "email": "admin@admin.com",
+      "password": "@oys71027943",
+      "passwordConfirm": "@oys71027943",
+      "phone": "010-8942-0316",
+      "createdAt": "2025-08-23T07:44:39.800Z",
+      "updatedAt": "2025-08-23T07:44:39.800Z",
+      "isActive": true
+    },
+    {
+      "id": "6add",
+      "name": "오유석",
+      "email": "admin@kakao.com",
+      "password": "@oys71027943",
+      "passwordConfirm": "@oys71027943",
+      "phone": "010-8942-0315",
+      "createdAt": "2025-08-23T08:28:02.117Z",
+      "updatedAt": "2025-08-23T08:28:02.117Z",
+      "isActive": true
     }
   ],
   "productUsages": [
